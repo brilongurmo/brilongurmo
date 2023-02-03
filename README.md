@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Information Technology Skills:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
   - [How to Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/osticket-prereqs)
   - [How to Enable self-service password reset in Azure Multi-Factor Authentication](https://github.com/brilongurmo/post-install-config)
   - [How to share screen using Microsoft Teams to remote into a computer](https://github.com/brilongurmo/ticket-lifecycle)
