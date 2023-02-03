@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian, an <a href="https://linkedin.com/in/Josh">IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Skills:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [How to Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/osticket-prereqs)
