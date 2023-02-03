@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian, an <a href="https://linkedin.com/in/Josh">IT Professional
 
-<h2>👨‍💻 Information Technology Skills and Training:</h2>
+<h2>👨‍💻 Information Technology Job Skills:</h2>
 
   - [How to use Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/osticket-prereqs)
   - [How to enable self-service password reset in Azure Multi-Factor Authentication](https://github.com/brilongurmo/post-install-config)
