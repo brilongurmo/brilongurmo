@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Skills and Training:</h2>
 
-  - [How to Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/osticket-prereqs)
-  - [How to Enable self-service password reset in Azure Multi-Factor Authentication](https://github.com/brilongurmo/post-install-config)
+  - [How to use Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/osticket-prereqs)
+  - [How to enable self-service password reset in Azure Multi-Factor Authentication](https://github.com/brilongurmo/post-install-config)
   - [How to share screen using Microsoft Teams to remote into a computer](https://github.com/brilongurmo/ticket-lifecycle)
 
 
