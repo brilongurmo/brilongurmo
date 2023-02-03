@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Information Technology Job Skills:</h2>
 
-  - [How to use Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/osticket-prereqs)
-  - [How to enable self-service password reset in Azure Multi-Factor Authentication](https://github.com/brilongurmo/post-install-config)
-  - [How to share screen using Microsoft Teams to remote into a computer](https://github.com/brilongurmo/ticket-lifecycle)
+  - [How to use Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/CiscoAnyconnect)
+  - [How to enable self-service password reset in Azure Multi-Factor Authentication](https://github.com/brilongurmo/Azure MFA)
+  - [How to share screen using Microsoft Teams to remote into a computer](https://github.com/brilongurmo/MS Teams)
 
 
 <h2>🤳Connect with me:</h2>
