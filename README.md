@@ -7,7 +7,7 @@ Objective: The following applications and programs allow people to stay connecte
 
 
 
-  - [How to use Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/CiscoAnyconnect)
+  - [How can Cisco Anyconnect VPN allows connection to a company/home Wifi- network](https://github.com/brilongurmo/CiscoAnyconnect)
   - [How to enable self-service password reset in Microsoft 365](https://github.com/brilongurmo/Microsoft-365)
   - [How to share screen using Microsoft Teams to remote into a computer](https://github.com/brilongurmo/Microsoft-Teams)
 
