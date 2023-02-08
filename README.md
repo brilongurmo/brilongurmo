@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Job Skills:</h2>
 
-Objective: The following application and program allows people to stay connected and secured while working onsite, hybrid or remote.
+Objective: The following applications and programs allows people to stay connected and secured while working onsite, hybrid or remote.
 
 
 
