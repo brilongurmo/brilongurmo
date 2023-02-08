@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Information Technology Job Skills:</h2>
 
+Objective: The following application and program allows people to stay connected and secured while working onsite, hybrid or remote.
+
+
+
+
   - [How to use Cisco Anyconnect VPN to connect to a company/home Wifi- network](https://github.com/brilongurmo/CiscoAnyconnect)
   - [How to enable self-service password reset in Microsoft 365](https://github.com/brilongurmo/Microsoft-365)
   - [How to share screen using Microsoft Teams to remote into a computer](https://github.com/brilongurmo/Microsoft-Teams)
